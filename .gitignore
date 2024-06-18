@@ -1,0 +1,10 @@
+*__pycache__*
+*.pyc
+*football-players-detection-1*
+*runs*
+*yolov8s.pt*
+*yolov5su.pt*
+*.env
+*best.pt
+*last.pt
+*node_modules
