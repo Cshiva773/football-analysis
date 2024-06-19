@@ -4,6 +4,9 @@
 
 This project aims to detect and track players, referees, and footballs in a video using YOLO, a state-of-the-art object detection model. Additionally, it assigns players to teams based on their jersey colors using K-means clustering, measures team ball control, estimates camera movement using optical flow, and calculates player speed and distance covered.
 
+![Screenshot (176)](https://github.com/Cshiva773/football-analysis/assets/104835495/1ab1b955-5c41-4904-9ab9-7db7925fa708)
+
+
 ## Features
 
 - Object detection and tracking using YOLO
